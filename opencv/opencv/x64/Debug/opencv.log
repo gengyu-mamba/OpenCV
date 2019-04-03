@@ -1,0 +1,6 @@
+﻿  main.cpp
+d:\program files\opencv\projects\opencv\opencv\main.cpp(9): warning C4326: “main”的返回类型应为“int”而非“void”
+  数字成像系统.cpp
+  视觉处理算法基础.cpp
+  正在生成代码...
+  opencv.vcxproj -> D:\Program Files\opencv\projects\opencv\x64\Debug\opencv.exe
